@@ -14,3 +14,4 @@
 - **`v15.0.0-canary.6`の`next dev`だとRequest Memoizationがされてなかった**
 - **`v15.0.0-canary.7`の`next dev`だとRequest Memoizationがされてなかった**
 - **`v15.0.0-canary.8`の`next dev`だとRequest Memoizationがされてなかった**
+- **`v15.0.0-canary.9`の`next dev`だとRequest Memoizationがされてなかった**
