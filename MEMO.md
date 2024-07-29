@@ -9,3 +9,4 @@
 - `15.0.0-canary.88`では、`next dev`でも`next start`でも、Request Memoizationが行われている
 - `v15.0.0-canary.25`でも`next dev`でいけてた
 - **`v15.0.0-canary.0`の`next dev`だとRequest Memoizationがされてなかった**
+- `v15.0.0-canary.10`でも`next dev`でいけてた
