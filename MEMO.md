@@ -10,3 +10,4 @@
 - `v15.0.0-canary.25`でも`next dev`でいけてた
 - **`v15.0.0-canary.0`の`next dev`だとRequest Memoizationがされてなかった**
 - `v15.0.0-canary.10`でも`next dev`でいけてた
+- **`v15.0.0-canary.5`の`next dev`だとRequest Memoizationがされてなかった**
